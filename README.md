@@ -3,4 +3,4 @@ An app that allows you to search movies via The Movie Database API and get a sho
 
 Link below
 
-https://sleepnaught88.github.io/MovieApp/
+https://showsjohn.github.io/MovieApp/
